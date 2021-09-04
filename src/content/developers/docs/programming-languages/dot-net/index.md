@@ -46,42 +46,4 @@ Need a more basic primer first? Check out [ethereum.org/learn](/learn/) or [ethe
 
 ## Intermediate Articles {#intermediate-articles}
 
-- [Nethereum Workbook/Sample List](http://docs.nethereum.com/en/latest/Nethereum.Workbooks/docs/)
-- [Deploy Your Own Development Testchains](https://github.com/Nethereum/Testchains)
-- [VSCode Codegen Plugin for Solidity](https://docs.nethereum.com/en/latest/nethereum-codegen-vscodesolidity/)
-- [Unity and Ethereum: Why and How](https://www.raywenderlich.com/5509-unity-and-ethereum-why-and-how)
-- [Create ASP.NET Core Web API for Ethereum dapps](https://tech-mint.com/blockchain/create-asp-net-core-web-api-for-ethereum-dapps/)
-- [Using Nethereum Web3 to Implement a Supply Chain Tracking System](http://blog.pomiager.com/post/using-nethereum-web3-to-implement-a-supply-chain-traking-system4)
-- [Nethereum Block Processing](https://nethereum.readthedocs.io/en/latest/nethereum-block-processing-detail/), with [C# Playground sample](http://playground.nethereum.com/csharp/id/1025)
-- [Nethereum Websocket Streaming](https://nethereum.readthedocs.io/en/latest/nethereum-subscriptions-streaming/)
-- [Kaleido and Nethereum](https://kaleido.io/kaleido-and-nethereum/)
-- [Quorum and Nethereum](https://github.com/Nethereum/Nethereum/blob/master/src/Nethereum.Quorum/README.md)
-
-## Advanced Use Patterns {#advanced-use-patterns}
-
-- [Azure Key Vault And Nethereum](https://github.com/Azure-Samples/bc-community-samples/tree/master/akv-nethereum)
-- [Nethereum.DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid)
-- [Ujo Nethereum backend reference architecture](https://docs.nethereum.com/en/latest/nethereum-ujo-backend-sample/)
-
-## .NET Projects, Tools and Other Fun Stuff {#dot-net-projects-tools-and-other-fun-stuff}
-
-- [Nethereum Playground](http://playground.nethereum.com/) - _Compile, create, and run Nethereum code snippets in browser_
-- [Nethereum Codegen Blazor](https://github.com/Nethereum/Nethereum.CodeGen.Blazor) - _Nethereum codegen with UI in Blazor_
-- [Nethereum Blazor](https://github.com/Nethereum/NethereumBlazor) - _A .NET Wasm SPA light blockchain explorer and simple wallet_
-- [Wonka Business Rules Engine](https://docs.nethereum.com/en/latest/wonka/) - _A business rules engine (for both the .NET platform and the Ethereum platform) that is inherently metadata-driven_
-- [Nethermind](https://github.com/NethermindEth/nethermind) - _A .NET Core Ethereum client for Linux, Windows, MacOs_
-- [eth-utils](https://github.com/ethereum/eth-utils/) - _utility functions for working with Ethereum related codebases_
-- [TestChains](https://github.com/Nethereum/TestChains) - _Pre-configured .NET devchains for fast response (PoA)_
-
-Looking for more resources? Check out [ethereum.org/developers](/developers/).
-
-## .NET Community Contributors {#dot-net-community-contributors}
-
-At Nethereum, we mostly hang out on [Gitter](https://gitter.im/Nethereum/Nethereum) where everyone is welcome to ask/answer questions, get help, or just chill. Feel free to do a PR or open an issue on the [Nethereum Github repository](https://github.com/Nethereum), or just to browse through the many side/sample projects we have. You can also find us on [Discord](https://discord.gg/jQPrR58FxX)!
-
-At Nethermind, let's get in touch through [Gitter](https://gitter.im/nethermindeth/nethermind). For PRs or issues, check out the [Nethermind Github repository](https://github.com/NethermindEth/nethermind).
-
-## Other Aggregated Lists {#other-aggregated-lists}
-
-[Official Nethereum Site](https://nethereum.com/)  
-[Official Nethermind Site](https://nethermind.io/)
+- [Nethereum Workbook/Sample List](http://docs.nethereum.com/en/late Site](https://nethermind.io/)
